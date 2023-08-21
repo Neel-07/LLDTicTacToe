@@ -1,4 +1,4 @@
-## TicTacToe Game Low-Level DesignTicTacToe Game Low-Level Design
+## TicTacToe Game Low-Level Design TicTacToe Game
 Welcome to the TicTacToe Game Low-Level Design documentation. This document outlines the structure and design of the TicTacToe game, highlighting key components, interactions, and constraints.
 
 ## Project Overview
